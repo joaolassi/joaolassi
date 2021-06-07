@@ -5,7 +5,7 @@
 - You can make contact with me by accessing my Linked In: https://www.linkedin.com/in/jmlassi/
 
 --------------Português--------------
-- Olá me chamo João Lassi
+- Olá, me chamo João Lassi
 - Meu ponto de interesse é no desenvolvimento web focando em JAVA (SpringBoot) e Angular (typescript)
 - Atualmente estou aprendendo SpringRest, React, React Native e Node.js (typescript)
 - Você pode me contatar acessando o meu Linked In: https://www.linkedin.com/in/jmlassi/
