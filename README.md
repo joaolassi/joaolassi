@@ -1,0 +1,10 @@
+--------------English--------------
+- Hi, I’m João Lassi
+- I’m interested in web development focused on JAVA (SpringBoot) and Angular (typescript)
+- I’m currently learning SpringRest, React, React Native e Node.Js (typescript)
+- You can make contact with me by accessing my Linked In: https://www.linkedin.com/in/jmlassi/
+--------------Português--------------
+- Olá me chamo João Lassi
+- Meu ponto de interesse é no desenvolvimento web focando em JAVA (SpringBoot) e Angular (typescript)
+- Atualmente estou aprendendo SpringRest, React, React Native e Node.js (typescript)
+- Você pode me contatar acessando o meu Linked In: https://www.linkedin.com/in/jmlassi/
