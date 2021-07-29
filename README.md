@@ -14,7 +14,7 @@
 <br/>
 <a href="https://www.linkedin.com/in/jmlassi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-<div style="display:flex;justify-content:center;">
+<div class="display-container">
   <a href="https://github.com/joaolassi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaolassi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolassi&layout=compact&langs_count=7&theme=dracula"/>
@@ -32,4 +32,11 @@
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </div>
+  
+  <style>
+    .display-container{
+      display:flex;
+      justify-content:center;
+    }
+  </style>
 
