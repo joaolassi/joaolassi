@@ -6,7 +6,7 @@
 
 <h1>English</h1>
 <p>Hi, I’m <b>João Lassi</b></p>
-<p>I’m interested in web development focused on JAVA (Spring) and Angular (typescript)</p>
+<p>I’m interested in web development focusing JAVA (Spring) and Angular (typescript)</p>
 <p>I’m currently learning SpringRest, React, React Native e Node.Js (typescript)</p>
 <p>You can make contact with me by accessing my Linked In: </p>
 <br/>
