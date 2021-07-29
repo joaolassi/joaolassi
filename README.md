@@ -14,10 +14,10 @@
   <br/>
   <a href="https://www.linkedin.com/in/jmlassi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="joaolassi Linkedin"/></a>
 
-<div class="display:flex;justify-content:center;">
+<div>
   <a href="https://github.com/joaolassi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaolassi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolassi&layout=compact&langs_count=7&theme=dracula"/>
+  <img class="display:flex;justify-content:center;" height="180em" src="https://github-readme-stats.vercel.app/api?username=joaolassi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img class="display:flex;justify-content:center !important;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolassi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <h2>Linguagens/Tecnologias usadas</h2>
