@@ -12,7 +12,7 @@
 
 <h2>Linguagens/Tecnologias usadas</h2>
 
-<div style="display:inline; margin-left:1.5rem;">
+<div style="display:inline;">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
