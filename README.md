@@ -1,5 +1,5 @@
 <h1>English</h1>
-- Hi, I’m João Lassi
+- <p>Hi, I’m João Lassi</p>
 - I’m interested in web development focused on JAVA (Spring) and Angular (typescript)
 - I’m currently learning SpringRest, React, React Native e Node.Js (typescript)
 - You can make contact with me by accessing my Linked In: 
