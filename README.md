@@ -12,7 +12,7 @@
 <p>Atualmente estou aprendendo SpringRest, React, React Native e Node.js (typescript)</p>
 <p>Você pode me contatar acessando o meu Linked In:</p>
 <br/>
-<a href="https://www.linkedin.com/in/jmlassi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jmlassi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="joaolassi Linkedin"/></a>
 
 <div class="display-container">
   <a href="https://github.com/joaolassi">
