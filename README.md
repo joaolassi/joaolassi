@@ -4,7 +4,7 @@
 - I’m currently learning SpringRest, React, React Native e Node.Js (typescript)
 - You can make contact with me by accessing my Linked In: 
 <br/>
-<a href="https://www.linkedin.com/in/jmlassi/?locale=en_US" style="padding:0.5rem;><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jmlassi/?locale=en_US"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 
 <h1>Português</h1>
