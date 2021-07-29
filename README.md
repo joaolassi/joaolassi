@@ -2,7 +2,10 @@
 - Hi, I’m João Lassi
 - I’m interested in web development focused on JAVA (Spring) and Angular (typescript)
 - I’m currently learning SpringRest, React, React Native e Node.Js (typescript)
-- You can make contact with me by accessing my Linked In: https://www.linkedin.com/in/jmlassi/
+- You can make contact with me by accessing my Linked In: 
+<br/>
+<a href="https://www.linkedin.com/in/jmlassi/?locale=en_US"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
 
 <h1>Português</h1>
 - Olá, me chamo João Lassi
@@ -10,7 +13,7 @@
 - Atualmente estou aprendendo SpringRest, React, React Native e Node.js (typescript)
 - Você pode me contatar acessando o meu Linked In: 
 <br/>
-<a href="https://www.linkedin.com/in/jmlassi/" style="display:flex;text-align:center; justify-content:center;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jmlassi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <h2>Linguagens/Tecnologias usadas</h2>
 
