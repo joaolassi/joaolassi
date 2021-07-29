@@ -9,6 +9,7 @@
 - Meu ponto de interesse é no desenvolvimento web focando em JAVA (Spring) e Angular (typescript)
 - Atualmente estou aprendendo SpringRest, React, React Native e Node.js (typescript)
 - Você pode me contatar acessando o meu Linked In: 
+<br/>
 - <a href="https://www.linkedin.com/in/jmlassi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <h2>Linguagens/Tecnologias usadas</h2>
