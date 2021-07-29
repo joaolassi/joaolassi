@@ -10,7 +10,7 @@
 - Atualmente estou aprendendo SpringRest, React, React Native e Node.js (typescript)
 - Você pode me contatar acessando o meu Linked In: 
 <br/>
-<a href="https://www.linkedin.com/in/jmlassi/" style="text-align:center;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jmlassi/" style="display:flex;text-align:center;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <h2>Linguagens/Tecnologias usadas</h2>
 
