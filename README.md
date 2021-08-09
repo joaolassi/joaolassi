@@ -7,7 +7,7 @@
 <h1>English</h1>
 <p>Hi, I’m <b>João Lassi</b></p>
 <p>I’m interested in web development focusing JAVA (Spring) and Angular (typescript)</p>
-<p>I’m currently learning Springboot, React, React Native e Node.Js (typescript)</p>
+<p>I’m currently learning Spring Boot, React, React Native e Node.Js (typescript)</p>
 <p>You can make contact with me by accessing my Linked In: </p>
 <br/>
 <a href="https://www.linkedin.com/in/jmlassi/?locale=en_US"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="joaolassi Linkedin"/></a>
@@ -15,7 +15,7 @@
   <h1>Português</h1>
   <p>Olá, me chamo <b>João Lassi</b></p>
   <p>Meu ponto de interesse é no desenvolvimento web focando em JAVA (Spring) e Angular (typescript)</p>
-  <p>Atualmente estou aprendendo Springboot, React, React Native e Node.js (typescript)</p>
+  <p>Atualmente estou aprendendo Spring Boot, React, React Native e Node.js (typescript)</p>
   <p>Você pode me contatar acessando o meu Linked In:</p>
   <br/>
   <a href="https://www.linkedin.com/in/jmlassi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="joaolassi Linkedin"/></a>
